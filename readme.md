@@ -19,4 +19,4 @@ https://tutify-front.herokuapp.com/
 
 ## Collaborator
 
-Made in collaboration with my teammate: https://github.com/phumzxter
+Made in collaboration with my teammate: https://github.com/cydavidh
